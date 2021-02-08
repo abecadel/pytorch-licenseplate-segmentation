@@ -140,3 +140,6 @@ dataset/
 dataset_old/
 models/
 .vscode/settings.json
+
+.idea
+model*.pth
